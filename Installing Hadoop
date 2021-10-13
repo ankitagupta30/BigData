@@ -101,6 +101,7 @@ Generates, Manages and Converts Authentication keys)
  
 check connection --
 - ssh localhost
-if any error comes, then update all pacman packages.
+if any error comes, then update all pacman packages using command or package manager
+- sudo pacman -Syyu
 
   
